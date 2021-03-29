@@ -8,7 +8,7 @@
   "bugs": {
     "url": "https://github.com/trufflesuite/truffle/issues"
   },
-  "version": "0.3.4",
+  "version": "0.3.5",
   "main": "dist/index.js",
   "files": [
     "dist"
@@ -24,7 +24,6 @@
   "dependencies": {
     "debug": "^4.3.1",
     "request-promise-native": "^1.0.9",
-    "source-map-support": "^0.5.19",
     "web3-utils": "1.2.9"
   },
   "devDependencies": {
